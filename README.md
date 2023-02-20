@@ -9,7 +9,8 @@ Service 4 <img width="551" alt="изображение" src="https://user-images
 
 Service 5 
 отображает все транзакции в базе данных
-<img width="552" alt="изображение" src="https://user-images.githubusercontent.com/72247279/220129966-671b0f11-56d0-452f-8ad6-ec8db42f9b03.png">
+<img width="283" alt="изображение" src="https://user-images.githubusercontent.com/72247279/220144878-a2d95bec-4e66-4285-8000-bce7468f67b2.png">
+
 
 Service 6
 создает таблицу в базе данных и ждет
