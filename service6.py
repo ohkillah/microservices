@@ -6,3 +6,6 @@ if __name__ == '__main__':
     print("Table created.")
     while True:
         time.sleep(12)
+
+
+#создает таблицу в базе данных

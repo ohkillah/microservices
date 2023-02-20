@@ -6,3 +6,6 @@ if __name__ == '__main__':
         total_amount = sum(transaction.amount for transaction in get_transactions())
         print(f"Total amount: {total_amount}")
         time.sleep(16)
+
+
+#отображает общую сумму всех транзакций в базе данных.
